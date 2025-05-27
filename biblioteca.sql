@@ -1,3 +1,4 @@
+-- -//////////////////// CREACION DE ENTIDADES ////////////////////-
 -- Tabla USUARIO
 CREATE TABLE USUARIO (
     usuario_id INT AUTO_INCREMENT PRIMARY KEY, 
